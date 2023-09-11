@@ -26,6 +26,20 @@ ul {
   line-height: 2.5;
 }
 
+button {
+  padding: 5px 10px;
+  margin: 5px 10px;
+  font-size: large;
+  font-weight: bold;
+  background-color: lightgray;
+  border-radius: 10px;
+  border-width: 1px;
+}
+button:hover {
+  color: red;
+  background-color: yellow;
+}
+
 .navbar {
   background-color: black;
   color: #fff;
